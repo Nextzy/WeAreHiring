@@ -1,0 +1,27 @@
+{
+  "name": "Nextzy The Pirate", 
+  "github_url": "https://github.com/NextzyThePirate", 
+  "need_apply": "true", 
+  "job": {
+    "position": "Super Awesome iOS Developer", 
+    "type": "FULL_TIME", 
+    "description": "ไม่มีสิ่งใดใน iOS ที่ผมทำไม่ได้ เพราะถ้าอันไหนทำไม่ได้ ผมจะบอกว่าไม่ทำ"
+  }, 
+  "skill": {
+    "programming_language": [
+      "Swift", 
+      "Objective-C"
+    ], 
+    "tools": [
+      "Xcode", 
+      "Zsh"
+    ]
+  }, 
+  "payload": {
+    "null": null, 
+    "contact_me": [
+      null, 
+      null
+    ]
+  }
+}
