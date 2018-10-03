@@ -1,0 +1,29 @@
+{
+  "name": "Royle Koonlert", 
+  "github_url": "https://github.com/RoyleKoonlert", 
+  "need_apply": false, 
+  "job": {
+    "position": "YOLO Android Developer", 
+    "type": "FULL_TIME"
+  },
+  "skill": {
+    "programming_language": [
+      "Java", 
+      "Kotlin",
+      "NodeJs",
+      "XML"
+    ], 
+    "tools": [
+      "Android Studio", 
+      "Version Control ",
+      "Trello",
+      "Jenkins"
+    ]
+  },
+  "payload": {
+    "Blog": "https://medium.com/@roylelittlemonkeys", 
+    "contact_me": [
+      "roylekoonlert@gmail.com"
+    ]
+  }
+}
