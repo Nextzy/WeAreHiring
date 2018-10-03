@@ -1,0 +1,27 @@
+{
+    "name": "ipoobest", 
+    "github_url": "https://github.com/ipoobest", 
+    "need_apply": "false", 
+    "job": {
+      "position": "Top Super Model 2018", 
+      "type": "SOME_TIME", 
+      "description": "ผมมีฟามฝัน"
+    }, 
+    "skill": {
+      "programming_language": [
+        "python", 
+        "javascript",
+        "kotlin",
+        "java"
+      ], 
+      "tools": [
+        "VScode", 
+        "docker",
+        "kubernetes",
+        "circleci"
+      ]
+    }, 
+    "payload": {
+      "job": "404_NOT_FOUND"
+    }
+  }
