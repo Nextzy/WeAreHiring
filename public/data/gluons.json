@@ -1,0 +1,33 @@
+{
+	"name": "Saran Tanpituckpong",
+	"github_url": "https://github.com/gluons",
+	"need_apply": false,
+	"job": {
+		"position": "Vue.js Developer",
+		"type": "FULL_TIME",
+		"description": "Craft things with Vue.js. Coding with TypeScript. Scripting with PowerShell."
+	},
+	"skill": {
+		"programming_language": [
+			"JavaScript",
+			"TypeScript",
+			"C#",
+			"Ruby"
+		],
+		"tools": [
+			"git",
+			"Visual Studio Code",
+			"Cmder",
+			"PowerShell"
+		]
+	},
+	"payload": {
+		"hacktoberfest": {
+			"year": 2018,
+			"enabled": true
+		},
+		"want_to_learn": [
+			"Rust"
+		]
+	}
+}
