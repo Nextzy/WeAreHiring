@@ -1,0 +1,27 @@
+{
+    "name": "strifeex", 
+    "github_url": "https://github.com/strifeex", 
+    "need_apply": "false", 
+    "job": {
+      "position": "Unity3d Developer", 
+      "type": "PART_TIME", 
+      "description": "Life must be easy. If it isn't easy, it's not right"
+    }, 
+    "skill": {
+      "programming_language": [
+        "C#", 
+        "SQL"
+      ], 
+      "tools": [
+        "Unity3d", 
+        "VS Code"
+      ]
+    }, 
+    "payload": {
+      "null": null, 
+      "contact_me": [
+        null, 
+        null
+      ]
+    }
+  }
