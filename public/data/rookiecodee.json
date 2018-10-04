@@ -9,20 +9,20 @@
   }, 
   "skill": {
     "programming_language": [
+      "PHP",
       "java", 
       "kotlin",
       "xml"
     ], 
     "tools": [
       "vscode", 
-      "android studio 3.2"
+      "android studio"
     ]
   }, 
   "payload": {
     "null": null, 
     "contact_me": [
-      null, 
-      null
+      "napon1018@gmail.com"
     ]
   }
 }
