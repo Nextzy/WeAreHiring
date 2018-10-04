@@ -1,0 +1,28 @@
+{
+  "name": "Itthi Ployseekum", 
+  "github_url": "https://github.com/boatdev085", 
+  "need_apply": "false", 
+  "job": {
+    "position": "Front-End Developer", 
+    "type": "FULL_TIME", 
+    "description": "ไม่ยังไม่หมดยัง ยังไม่อยากนอนอดข้าวอยู่บ้าน"
+  }, 
+  "skill": {
+    "programming_language": [
+      "Javascript", 
+      "css",
+      "Nodejs",
+      "Reactjs"
+    ], 
+    "tools": [
+      "VS Code", 
+      "Google Chome",
+      "Version Control"
+    ]
+  }, 
+  "payload": {
+    "contact_me": [
+      "itthi085@gmail.com"
+    ]
+  }
+}
