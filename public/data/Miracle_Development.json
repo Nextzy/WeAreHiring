@@ -1,0 +1,31 @@
+{
+  "name": "MiracleDevelopment", 
+  "github_url": "https://github.com/MiracleDevelopment", 
+  "need_apply": "true", 
+  "job": {
+    "position": "Android Developer", 
+    "type": "FULL_TIME", 
+    "description": "เป็นคนไม่เก่ง แต่กล้าเรียนรู้ เป็นคนไม่สู้ แต่ขี้เหงา เป็นคนลั้นล้าแต่บรรเทา เป็น Dev ที่ Nextzy ดีกว่าเอ๋ย"
+  }, 
+  "skill": {
+    "programming_language": [
+      "Kotlin", 
+      "Java",
+      "JavaScript"
+    ], 
+    "tools": [
+      "Android Studio", 
+      "IntelliJ",
+      "GitHub",
+      "Bitbucket",
+      "SourceTree"
+    ]
+  }, 
+  "payload": {
+    "LinkedIn": "https://www.linkedin.com/in/patipan-injai-5b576314a/", 
+    "contact_me": [
+      "Email : i.patipan2539@gmail.com", 
+      "Phone : 092-270-7454"
+    ]
+  }
+}
