@@ -1,0 +1,35 @@
+{
+    "name": "Pitsanu Limpanachaiphonkul",
+    "github_url": "https://github.com/pitsanujiw",
+    "linkedin":"https://www.linkedin.com/in/pitsanujiw/",
+    "need_apply": "true",
+    "resume": "../image/Resume.png",
+    "job": {
+        "position": "JavaScript Frontend Developer , JavaScript Backend Developer",
+        "type": "REMOTE WORKING , FULL_TIME",
+        "description": "ผมชอบการเขียนโปรแกรมชอบการเขียน JavaScript TypeScript ชอบการเรียนรู้อะไรใหม่ๆเสมอ "
+    },
+    "skill": {
+        "programming_language": [
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "Python",
+            "Go lang นิดหน่อย"
+        ],
+        "tools": [
+            "VScode",
+            "Zsh",
+            "POSTMAN",
+            "Slack",
+            "Docker"
+        ]
+    },
+    "payload": {
+        "null": null,
+        "contact_me": [
+            "tel: 087-662-0856"
+        ]
+    }
+}
