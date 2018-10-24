@@ -1,0 +1,41 @@
+{
+    "name": "Jakpat Mingmongkolmitr", 
+    "github_url": "https://github.com/WhatTheFar", 
+    "need_apply": "true", 
+    "job": {
+      "position": "DevOps, Backend, Android Developer", 
+      "type": "INTERNSHIP", 
+      "description": "I am an enthusiastic full-stack and android developer, especially interested in DevOps and Data Science. I enjoy learning new programming techniques to constantly develop my skills and grow professionally."
+    }, 
+    "skill": {
+      "programming_language": [
+        "Kotlin", 
+        "Java",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go"
+      ], 
+      "tools": [
+        "VSCode",
+        "Android Studio",
+        "IntelliJ Idea",
+        "PyCharm",
+        "Vim",
+        "Alfred",
+        "Fork",
+        "iTerm2",
+        "Slack",
+        "Team Week",
+        "Trello"
+      ]
+    }, 
+    "payload": {
+      "resume": "http://bit.ly/2zOgzbu",
+      "linkedin": "linkedin.com/in/jakpatm",
+      "contact_me": {
+        "enail": "jakpat.m@gmail.com",
+        "phone": "098-919-2919"
+      }
+    }
+  }
