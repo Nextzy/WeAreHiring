@@ -1,0 +1,28 @@
+{
+    "name": "Phumai  Chanphunga", 
+    "github_url": "https://github.com/dtmkeng", 
+    "need_apply": "false", 
+    "job": {
+      "position": "JavaScript Backend Developer", 
+      "type": "FULL_TIME", 
+      "description": "Computer Engineer Third-year"
+    }, 
+    "skill": {
+      "programming_language": [
+        "Javascript", 
+        "Java",
+        "Python",
+        "Typescript"
+      ], 
+      "tools": [
+        "VSCode", 
+        "Robo 3T"
+      ]
+    }, 
+    "payload": {
+      "event":"hacktoberfest",
+      "contact_me": [
+        {"email":"phumaisut@gmail.com"}
+      ]
+    }
+  }
