@@ -1,0 +1,25 @@
+{
+  "name": "Sorawit Trutsat", 
+  "github_url": "https://github.com/sorawitt", 
+  "need_apply": false, 
+  "job": {
+    "position": "Super Junior iOS Developer", 
+    "type": "FULL_TIME", 
+    "description": "When given the choice between being right or being kind, choose kind."
+  }, 
+  "skill": {
+    "programming_language": [
+      "Swift",
+      "JavaScript"
+    ], 
+    "tools": [
+      "Xcode"
+    ]
+  }, 
+  "payload": {
+    "contact_me": [
+      "sorawit.tr@gmail.com", 
+      "https://www.linkedin.com/in/sorawitt/"
+    ]
+  }
+}
