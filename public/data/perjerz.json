@@ -1,0 +1,30 @@
+{
+    "name": "PerJerZ", 
+    "github_url": "https://github.com/perjerz3434", 
+    "need_apply": "false", 
+    "job": {
+      "position": "Front-end Engineer", 
+      "type": "REMOTE", 
+      "description": "Angular enthusiast passionated in front-end engineering, Jasmine tea lover, and Golang beginner."
+    }, 
+    "skill": {
+      "programming_language": [
+        "Angular", 
+        "JavaScript",
+        "RxJS",
+        "TypeScript"
+      ], 
+      "tools": [
+        "WebStorm", 
+        "Zsh",
+        "VSCode"
+      ]
+    }, 
+    "payload": {
+      "resume": null, 
+      "contact_me": [
+        "https://www.linkedin.com/in/siwatkaolueng", 
+        "https://medium.com/@perjerz3434/has-recommended"
+      ]
+    }
+  }
