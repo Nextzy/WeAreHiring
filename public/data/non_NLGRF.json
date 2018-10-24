@@ -1,0 +1,22 @@
+{
+    "name": "NLGRF", 
+    "github_url": "https://github.com/NLGRF", 
+    "need_apply": "false", 
+    "job": {
+      "position": "Web Dev", 
+      "type": "FULL_TIME", 
+      "description": "เขียนแต่เว็บง่ายๆ เว็บยากๆให้คนอื่นเขียน"
+    },
+    "skill": {
+      "programming_language": [
+        "Dart",
+        "Javascript"
+      ], 
+      "tools": [
+        "Zsh",
+        "VS Code",
+        "Vim"
+      ]
+    }, 
+    "payload": "Any"
+  }
