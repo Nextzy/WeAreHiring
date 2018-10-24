@@ -1,0 +1,25 @@
+{
+  "name": "Akexorcist", 
+  "github_url": "https://github.com/akexorcist", 
+  "need_apply": "false", 
+  "job": {
+    "position": "Lovely Android Developer", 
+    "type": "FULL_TIME", 
+    "description": "นักพัฒนาแอนดรอยด์ผู้น่ารักและหลงใหลในเทคโนโลยีที่เกี่ยวข้องกับแอนดรอยด์"
+  }, 
+  "skill": {
+    "programming_language": [
+      "Java", 
+      "Kotlin"
+    ], 
+    "tools": [
+      "Android Studio", 
+      "Adobe Photoshop", 
+      "Adobe Illustrator",
+      "VS Code",
+      "Slack",
+      "Fork"
+    ]
+  }, 
+  "payload": {}
+}
