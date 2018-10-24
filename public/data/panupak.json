@@ -1,0 +1,17 @@
+{
+  "name": "Panupak Vichaidit",
+  "github_url": "https://github.com/newnok6",
+  "need_apply": "false",
+  "job": {
+    "position": "PHP Developer",
+    "type": "OVERTIME",
+    "description": "PHP is love, PHP is Life"
+  },
+  "skill": {
+    "programming_language": ["PHP"],
+    "tools": ["Vim"]
+  },
+  "payload": {
+    "PHP": "ไม่เขียนอย่างอื่นนอกจาก php"
+  }
+}
