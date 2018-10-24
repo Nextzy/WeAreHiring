@@ -1,0 +1,28 @@
+{
+  "name": "RookieCodee", 
+  "github_url": "https://github.com/RookieCodee", 
+  "need_apply": "false", 
+  "job": {
+    "position": "Android Developer", 
+    "type": "FULL_TIME", 
+    "description": "ถึงจะโค๊ดไม่เก่ง แต่ลีลาเด่นไม่แพ้ใครนะครับ"
+  }, 
+  "skill": {
+    "programming_language": [
+      "PHP",
+      "java", 
+      "kotlin",
+      "xml"
+    ], 
+    "tools": [
+      "vscode", 
+      "android studio"
+    ]
+  }, 
+  "payload": {
+    "null": null, 
+    "contact_me": [
+      "napon1018@gmail.com"
+    ]
+  }
+}
