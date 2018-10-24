@@ -1,0 +1,30 @@
+{
+    "name": "ninefyi", 
+    "github_url": "https://github.com/ninefyi", 
+    "need_apply": "false", 
+    "job": {
+      "position": "Scrum Master", 
+      "type": "FULL_TIME", 
+      "description": "อยากทำให้ทุกคนมีความรู้ และทำงานด้วยกันอย่างราบรื่น"
+    }, 
+    "skill": {
+      "programming_language": [
+        "Web Programming", 
+        "Database Design and Implementation",
+        "Various Business Knowledge Understanding"
+      ], 
+      "tools": [
+        "Vscode",
+        "Vim", 
+        "Zsh",
+        "DBeaver"
+      ]
+    }, 
+    "payload": {
+      "null": null, 
+      "contact_me": [
+        null, 
+        null
+      ]
+    }
+  }
