@@ -1,0 +1,27 @@
+{
+    "name": "Nann", 
+    "github_url": "https://github.com/Nann", 
+    "need_apply": "false", 
+    "job": {
+      "position": "Web Developer", 
+      "type": "FULL_TIME", 
+      "description": "WordPress is love"
+    }, 
+    "skill": {
+      "programming_language": [
+        "PHP", 
+        "JavaScript"
+      ], 
+      "tools": [
+        "Vscode",
+        "Zsh"
+      ]
+    }, 
+    "payload": {
+      "null": null, 
+      "contact_me": [
+        null, 
+        null
+      ]
+    }
+  }
