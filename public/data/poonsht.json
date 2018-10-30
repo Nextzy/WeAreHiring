@@ -1,0 +1,36 @@
+{
+    "name": "Poon Shotateerawasu", 
+    "github_url": "https://github.com/aslupin", 
+    "need_apply": "true", 
+    "job": {
+      "position": "JavaScript Frontend Developer", 
+      "type": "INTERNSHIP, PART TIME", 
+      "description": "กำลังศึกษาอยู่ปี2 คณะวิศวกรรมคอมพิวเตอร์ ชอบการเขียนโค้ดอาจจะไม่เก่งมากแต่อยากที่จะหาประสบกาณ์และพัฒนาตัวเองอยู่เรื่อยๆครับ"
+    }, 
+    "skill": {
+      "programming_language": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Kotlin", 
+        "Java"
+      ], 
+      "tools": [
+        "VS Code",
+        "Android Studio",
+        "Genymotion",
+        "Postman",
+        "Git",
+        "SourceTree 2",
+        "React"
+      ]
+    }, 
+    "payload": {
+      "cv": "http://bit.ly/2qg7Fhl",
+      "contact_me": {
+        "enail": "poon_arsene_lupin@hotmail.com",
+        "phone": "087-337-0808"
+      }
+    }
+  }
