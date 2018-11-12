@@ -1,0 +1,60 @@
+{
+    "name": "nine3112",
+    "github_url": "https://github.com/nine3112",
+    "need_apply": true,
+    "job": {
+        "position": "Javascript Developer",
+        "type": "FULL_TIME",
+        "description": "~~~ ถ้าเธอ ลองเปิดใจให้ฉันเพียงสักครั้ง มองที่ใจคนใกล้ตัวดูสักวัน ให้หัวใจพิสูจน์ใจ"
+    },
+    "skill": {
+        "programming_language": [{
+                "name": "Basic",
+                "list": ["HTML", "CSS", "Nginx", "Apache2"]
+            }, {
+                "name": "Javascript",
+                "library": ["React (นิดหน่อยๆๆๆๆครับ)", "Nodejs (จะลืมแล้ว)", "Expressjs (ฝุ่นเกาะ)"]
+            },
+            {
+                "name": "Typescript",
+                "framework": ["Angular 7 (ไวมาก)", "Ionic"]
+            },
+            {
+                "name": "Database && Document",
+                "list": ["Mongodb", "SQL", "Firebase (FireStore, Store, Cloud)", "Elastic Search"]
+            },
+            {
+                "name": "Unknown",
+                "list": ["Flutter (กำลังหัด)", "Go (พอได้และกำลังใช้)"]
+            }
+        ],
+        "tools": [
+            "Vscode",
+            "npm",
+            "brew",
+            "Robo3T",
+            "Goland (Fake Server)",
+            "Terminal",
+            "Git",
+            "Jenkins",
+            "Azure นิดหน่อย",
+            "Google Cloud",
+            "Kibana",
+            "Beautify",
+            "Postman",
+            "ColorZilla",
+            "Zsh"
+        ]
+    },
+    "payload": {
+        "not_sure": "มีงานประจำอยู่ครับ แต่อยากลองส่งมาดูก่อน",
+        "location_need_go": "อยู่กทม แต่อยากไปอยู่เชียงใหม่ไม่รู้จะไหวไหม",
+        "contact_me": {
+            "phone": "0617512244",
+            "email": "se57160497@gmail.com",
+            "facebook": "Nine'n Jadtawat",
+            "line": "nine3182"
+        },
+        "exp": ["INTERN 6M (Developer)", "Final Project 4M", "KBTG 5M Developer (Working)"]
+    }
+}
