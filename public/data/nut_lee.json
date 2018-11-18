@@ -1,0 +1,52 @@
+{
+  "name": "nut lee", 
+  "github_url": "https://github.com/ShortingStar", 
+  "need_apply": "true", 
+  "job": {
+    "position": "Android Developer", 
+    "type": "FULL_TIME", 
+    "description": "นักพัฒนาแอนดรอยด์ สาวกแท้ทรูของหุ่นเขียว"
+  }, 
+  "skill": {
+    "programming_language": [
+      {
+        "using": [
+          "Java(Android)",
+          "PHP",
+          "HTML",
+          "CSS",
+          "JQuery",
+          "MySQL",
+          "GIT"
+        ]
+      },
+      {
+        "Learning": [
+          "Kotlin",
+          "NodeJS",
+          "GO",
+          "Swift",
+          "Angular",
+          "Vue",
+          "Docker"
+        ]
+      }
+    ], 
+    "tools": [
+      "Android Studio", 
+      "Adobe Photoshop", 
+      "VS Code",
+      "Sublime Text",
+      "Slack",
+      "Trello"
+    ]
+  }, 
+  "payload": {
+    "contact": [
+      "085-0353543",
+      "devzero.lee@gmail.com"
+    ],
+    "note": "เป็นได้ทุกตำแหน่ง แทงค์ก็ได้ ฟาร์มก็ดีครับ"
+  }
+}
+
